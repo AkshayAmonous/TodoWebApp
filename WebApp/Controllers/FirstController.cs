@@ -17,5 +17,8 @@ namespace WebApp.Controllers
         {
             return "Build Successful";
         }
+        public string GetCustomer()
+        {
+            return "Akshay Ghanvata";        }
     }
 }
